@@ -13,6 +13,11 @@ const Button = styled.a`
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 0;
+
+  &:hover {
+    border: 0;
+  }
 `
 const DownloadButton = (props) => {
   return(
