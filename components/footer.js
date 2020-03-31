@@ -27,7 +27,10 @@ const FooterContainer = styled.footer`
 const Footer = (props) => {
   return(
     <FooterContainer>
-      <p>© 2020 <a href="https://nothingmagical.com" rel="external nofollow">Nothing Magical Inc.</a></p>
+      <p>
+        © 2020 <a href="https://nothingmagical.com" rel="external nofollow" style={{ marginRight: '2rem' }}>Nothing Magical Inc.</a>
+        <a href="/privacy">Privacy</a>
+      </p>
       <p>In case it wasn’t obvious, this has absolutely zero affiliation with Zoom.</p>
     </FooterContainer>
   )
