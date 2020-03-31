@@ -90,3 +90,9 @@ p {
 strong {
   font-weight: bold;
 }
+
+mark {
+  background-color: #fffeca;
+  padding: 0.05em 0.1em;
+  box-shadow: #fffeca 0 0 5px;
+}
