@@ -1,6 +1,6 @@
-# Zoom In
+# zoom-in.app
 
-The website for [Zoom In](https://github.com/nothingmagical/ZoomIn).
+The website for [Zoom In](https://github.com/nothingmagical/ZoomIn). If you’re looking for the Zoom In app code, it’s [over here](https://github.com/nothingmagical/ZoomIn).
 
 ## Running Locally
 
