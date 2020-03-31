@@ -28,7 +28,7 @@ const DownloadButton = (props) => {
 }
 
 DownloadButton.defaultProps = {
-  "url": "https://github.com/nothingmagical/ZoomIn/releases/download/v1.0/ZoomIn-1.0.zip"
+  "url": "https://github.com/nothingmagical/ZoomIn/releases/download/v1.0.1/ZoomIn-1.0.1.zip"
 }
 
 export default DownloadButton
