@@ -9,10 +9,12 @@
   },
   "main": "pages/index.js",
   "dependencies": {
+    "fathom-client": "^2.0.3",
     "next": "^9.3.3",
-    "styled-components": "^5.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-twitter-embed": "^3.0.3",
+    "styled-components": "^5.0.1",
     "webpack": "^4.42.1"
   },
   "description": "Website for Zoom In by Nothing Magical Inc.",

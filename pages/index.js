@@ -2,6 +2,7 @@ import styled from 'styled-components'
 import Page from '../components/page'
 import Subheading from '../components/subheading'
 import DownloadButton from '../components/download_button'
+import { TwitterVideoEmbed } from 'react-twitter-embed';
 
 export default () => (
   <Page>
@@ -13,6 +14,6 @@ export default () => (
     <p style={{marginBottom: '4rem'}}>
       <DownloadButton />
     </p>
-    <blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">It works! <a href="https://t.co/Ifij7DXwJU">pic.twitter.com/Ifij7DXwJU</a></p>&mdash; Sam Soffes (@soffes) <a href="https://twitter.com/soffes/status/1244841086314409984?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <TwitterVideoEmbed id={'1244841086314409984'} />
   </Page>
 )
