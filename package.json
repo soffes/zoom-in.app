@@ -10,7 +10,7 @@
   "main": "pages/index.js",
   "dependencies": {
     "fathom-client": "^2.0.3",
-    "next": "^9.3.3",
+    "next": "^9.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-twitter-embed": "^3.0.3",
